@@ -1,0 +1,8 @@
+{
+  "warehouse": {
+    "type": "bigquery",
+    "projectId": "shopper-estudo",
+    "dataset": "raw_postgre",
+    "threads": 1
+  }
+}
