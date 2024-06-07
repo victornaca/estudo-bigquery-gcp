@@ -1,7 +1,6 @@
 {
   "warehouse": "bigquery",
   "defaultDatabase": "shopper-estudo",
-  "defaultSchema": "raw_data",
-  "assertionSchema": "raw_data_assertion",
-  "defaultLocation": "EU"
+  "defaultSchema": "",
+  "assertionSchema": "raw_data_assertion"
 }
