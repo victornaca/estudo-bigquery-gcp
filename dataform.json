@@ -1,8 +1,7 @@
 {
-  "warehouse": {
-    "type": "bigquery",
-    "projectId": "shopper-estudo",
-    "dataset": "raw_postgre",
-    "threads": 1
-  }
+  "warehouse": "bigquery",
+  "defaultDatabase": "shopper-estudo",
+  "defaultSchema": "raw_postgre",
+  "assertionSchema": "raw_postgre_assertion",
+  "defaultLocation": "EU"
 }
