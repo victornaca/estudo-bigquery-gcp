@@ -1,0 +1,5 @@
+defaultProject: shopper-estudo
+defaultLocation: EU
+defaultDataset: postgreprodpublic
+defaultAssertionDataset: postgreprodpublic_assertions
+dataformCoreVersion: 3.0.0-beta.4   
